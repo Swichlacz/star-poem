@@ -19,6 +19,6 @@ And the mud churned up in it turbidly.
 The star grew pale and hid her face
 In a bit of floating cloud like lace.
 
---*Sara Teasdale*
+--**Sara Teasdale**
 
 http://www.public-domain-poetry.com/sara-teasdale/star-2056
