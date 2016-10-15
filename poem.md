@@ -1,3 +1,5 @@
+# The Star
+
 A white star born in the evening glow
 Looked to the round green world below,
 And saw a pool in a wooded place
@@ -17,5 +19,5 @@ And the mud churned up in it turbidly.
 The star grew pale and hid her face
 In a bit of floating cloud like lace.
 
---Sara Teasdale
-  http://www.public-domain-poetry.com/sara-teasdale/star-2056
+--*Sara Teasdale*
+http://www.public-domain-poetry.com/sara-teasdale/star-2056
