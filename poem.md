@@ -1,5 +1,7 @@
 # The Star
 
+:star2:
+
 A white star born in the evening glow
 
 Looked to the round green world below,
